@@ -1,0 +1,2 @@
+### Source des données
+Les fichiers de données présents dans ce projet (dossier [Medias_francais](./Medias_francais)) proviennent de ce [dépôt github](https://github.com/mdiplo/Medias_francais). Ils sont mis à disposition sous la licence Open Data Commons Attribution License (ODC-By).
